@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chirag19saxena/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" chirag19saxena" height="30" width="40" /></a>
-<a href="https://instagram.com/ mr.saxena_20 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=" mr.saxena_20" height="30" width="40" /></a>
+
 <a href="https://leetcode.com/u/CHIRAG_SAXENA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt=" CHIRAG_SAXENA " height="30" width="40" /></a>
 </p>
 
